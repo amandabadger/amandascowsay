@@ -1,0 +1,18 @@
+##
+## A kitten of sorts, I think
+##
+$the_cow = <<EOC;
+                                   $thoughts
+               ___,,___             $thoughts
+          _,-='=- =-  -`"--.__,,.._           
+       ,-;// /  - -       -   -= - "=.        
+     ,'///    -     -   -   =  - ==-=\`.      
+    |/// /  =    `. - =   == - =.=_,,._ `=/|  
+   ///    -   -    \  - - = ,ndDMHHMM/\b  \\  
+ ,' - / /        / /\ =  - /MM(,,._`YQMML  `| 
+<_,=^Kkm / / / / ///H|wnWWdMKKK#""-;. `"0\  | 
+       `""QkmmmmmnWMMM\""WHMKKMM\   `--. \> \ 
+hjm          `""'  `->>>    ``WHMb,.    `-_<@)
+                               `"QMM`.        
+                                  `>>> 
+EOC

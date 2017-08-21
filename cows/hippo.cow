@@ -1,0 +1,14 @@
+##
+## A kitten of sorts, I think
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+      c~~p ,---------.
+ ,---'oo  )           \\
+( O O                  )/
+ `=^='                 /
+       \\    ,     .   /
+       \\\\  |-----'|  /
+       ||__|    |_|__| 
+EOC
